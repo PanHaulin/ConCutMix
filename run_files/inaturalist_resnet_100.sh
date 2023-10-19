@@ -1,0 +1,14 @@
+python ../main.py --data /home/pc/utils/dataset/train_val2018/  --dataset inat\
+  --lr 0.2 -p 600 --epochs 100 \
+  --arch resnet50 \
+  --use_norm  \
+  --wd 1e-4 \
+  --cos \
+  --cl_views sim-sim\
+  --batch-size 128\
+  --tau 0.99\
+  --root_log "../log"\
+  --l_d_warm 80\
+  --scaling_factor 1628 255 \
+  --topk 30\
+  --grad_c\

@@ -1,0 +1,252 @@
+Epoch: [0][0/50] 	Time 10.121 (10.121)	CE_Loss 4.7324 (4.7324)	SCL_Loss 5.8039 (5.8039)	Prec@1 0.000 (0.000)	loss 12.9471
+Best Prec@1: 3.880, Many Prec@1: 0.084, Med Prec@1: 0.002, Few Prec@1: 0.021
+Epoch: [1][0/50] 	Time 2.520 (2.520)	CE_Loss 4.0507 (4.0507)	SCL_Loss 4.4045 (4.4045)	Prec@1 0.000 (0.000)	loss 10.7440
+Best Prec@1: 5.120, Many Prec@1: 0.095, Med Prec@1: 0.026, Few Prec@1: 0.009
+Epoch: [2][0/50] 	Time 2.776 (2.776)	CE_Loss 3.8812 (3.8812)	SCL_Loss 4.3093 (4.3093)	Prec@1 0.000 (0.000)	loss 10.3479
+Best Prec@1: 5.910, Many Prec@1: 0.101, Med Prec@1: 0.038, Few Prec@1: 0.012
+Epoch: [3][0/50] 	Time 3.814 (3.814)	CE_Loss 3.8258 (3.8258)	SCL_Loss 4.3027 (4.3027)	Prec@1 0.000 (0.000)	loss 10.2332
+Best Prec@1: 6.490, Many Prec@1: 0.075, Med Prec@1: 0.071, Few Prec@1: 0.027
+Epoch: [4][0/50] 	Time 4.375 (4.375)	CE_Loss 3.7864 (3.7864)	SCL_Loss 4.3109 (4.3109)	Prec@1 0.000 (0.000)	loss 10.1592
+Best Prec@1: 8.430, Many Prec@1: 0.109, Med Prec@1: 0.068, Few Prec@1: 0.065
+Epoch: [5][0/50] 	Time 4.096 (4.096)	CE_Loss 4.5227 (4.5227)	SCL_Loss 4.1772 (4.1772)	Prec@1 0.000 (0.000)	loss 11.5517
+Best Prec@1: 8.730, Many Prec@1: 0.128, Med Prec@1: 0.065, Few Prec@1: 0.045
+Epoch: [6][0/50] 	Time 3.201 (3.201)	CE_Loss 3.6099 (3.6099)	SCL_Loss 4.1706 (4.1706)	Prec@1 0.000 (0.000)	loss 9.7222
+Best Prec@1: 9.310, Many Prec@1: 0.175, Med Prec@1: 0.037, Few Prec@1: 0.035
+Epoch: [7][0/50] 	Time 3.123 (3.123)	CE_Loss 3.5007 (3.5007)	SCL_Loss 4.2310 (4.2310)	Prec@1 0.000 (0.000)	loss 9.5401
+Best Prec@1: 10.200, Many Prec@1: 0.168, Med Prec@1: 0.070, Few Prec@1: 0.025
+Epoch: [8][0/50] 	Time 3.158 (3.158)	CE_Loss 3.4864 (3.4864)	SCL_Loss 4.2669 (4.2669)	Prec@1 0.000 (0.000)	loss 9.5329
+Best Prec@1: 12.440, Many Prec@1: 0.180, Med Prec@1: 0.092, Few Prec@1: 0.071
+Epoch: [9][0/50] 	Time 3.422 (3.422)	CE_Loss 4.0905 (4.0905)	SCL_Loss 4.1940 (4.1940)	Prec@1 0.000 (0.000)	loss 10.6975
+Best Prec@1: 14.890, Many Prec@1: 0.215, Med Prec@1: 0.098, Few Prec@1: 0.113
+Epoch: [10][0/50] 	Time 3.329 (3.329)	CE_Loss 3.4386 (3.4386)	SCL_Loss 4.1608 (4.1608)	Prec@1 0.000 (0.000)	loss 9.3737
+Epoch: [11][0/50] 	Time 4.466 (4.466)	CE_Loss 3.1266 (3.1266)	SCL_Loss 4.0633 (4.0633)	Prec@1 0.000 (0.000)	loss 8.6913
+Epoch: [12][0/50] 	Time 5.430 (5.430)	CE_Loss 3.8837 (3.8837)	SCL_Loss 4.0954 (4.0954)	Prec@1 0.000 (0.000)	loss 10.2246
+Epoch: [13][0/50] 	Time 5.340 (5.340)	CE_Loss 2.9613 (2.9613)	SCL_Loss 4.0590 (4.0590)	Prec@1 0.000 (0.000)	loss 8.3581
+Best Prec@1: 16.960, Many Prec@1: 0.257, Med Prec@1: 0.138, Few Prec@1: 0.044
+Epoch: [14][0/50] 	Time 5.401 (5.401)	CE_Loss 2.8207 (2.8207)	SCL_Loss 3.9324 (3.9324)	Prec@1 0.000 (0.000)	loss 8.0008
+Best Prec@1: 17.240, Many Prec@1: 0.244, Med Prec@1: 0.126, Few Prec@1: 0.115
+Epoch: [15][0/50] 	Time 6.060 (6.060)	CE_Loss 3.7988 (3.7988)	SCL_Loss 4.0451 (4.0451)	Prec@1 0.000 (0.000)	loss 10.0246
+Best Prec@1: 17.860, Many Prec@1: 0.259, Med Prec@1: 0.145, Few Prec@1: 0.072
+Epoch: [16][0/50] 	Time 8.049 (8.049)	CE_Loss 4.1542 (4.1542)	SCL_Loss 3.9570 (3.9570)	Prec@1 0.000 (0.000)	loss 10.6826
+Best Prec@1: 19.940, Many Prec@1: 0.306, Med Prec@1: 0.157, Few Prec@1: 0.052
+Epoch: [17][0/50] 	Time 8.575 (8.575)	CE_Loss 4.0003 (4.0003)	SCL_Loss 3.9137 (3.9137)	Prec@1 0.000 (0.000)	loss 10.3489
+Best Prec@1: 20.920, Many Prec@1: 0.314, Med Prec@1: 0.154, Few Prec@1: 0.096
+Epoch: [18][0/50] 	Time 8.416 (8.416)	CE_Loss 2.6508 (2.6508)	SCL_Loss 3.9828 (3.9828)	Prec@1 0.000 (0.000)	loss 7.6912
+Best Prec@1: 24.050, Many Prec@1: 0.377, Med Prec@1: 0.179, Few Prec@1: 0.070
+Epoch: [19][0/50] 	Time 8.789 (8.789)	CE_Loss 3.4382 (3.4382)	SCL_Loss 3.8432 (3.8432)	Prec@1 0.000 (0.000)	loss 9.1823
+Best Prec@1: 24.620, Many Prec@1: 0.351, Med Prec@1: 0.189, Few Prec@1: 0.138
+Epoch: [20][0/50] 	Time 7.918 (7.918)	CE_Loss 2.5020 (2.5020)	SCL_Loss 3.7484 (3.7484)	Prec@1 0.000 (0.000)	loss 7.2530
+Epoch: [21][0/50] 	Time 7.343 (7.343)	CE_Loss 3.4424 (3.4424)	SCL_Loss 3.8746 (3.8746)	Prec@1 0.000 (0.000)	loss 9.2096
+Epoch: [22][0/50] 	Time 7.406 (7.406)	CE_Loss 2.6279 (2.6279)	SCL_Loss 3.8215 (3.8215)	Prec@1 0.000 (0.000)	loss 7.5487
+Best Prec@1: 25.130, Many Prec@1: 0.333, Med Prec@1: 0.219, Few Prec@1: 0.138
+Epoch: [23][0/50] 	Time 6.458 (6.458)	CE_Loss 3.8558 (3.8558)	SCL_Loss 3.6300 (3.6300)	Prec@1 0.000 (0.000)	loss 9.8896
+Best Prec@1: 25.870, Many Prec@1: 0.387, Med Prec@1: 0.188, Few Prec@1: 0.127
+Epoch: [24][0/50] 	Time 8.226 (8.226)	CE_Loss 3.7201 (3.7201)	SCL_Loss 3.7173 (3.7173)	Prec@1 0.000 (0.000)	loss 9.6706
+Best Prec@1: 27.190, Many Prec@1: 0.414, Med Prec@1: 0.181, Few Prec@1: 0.155
+Epoch: [25][0/50] 	Time 8.310 (8.310)	CE_Loss 4.2633 (4.2633)	SCL_Loss 3.7690 (3.7690)	Prec@1 0.000 (0.000)	loss 10.7880
+Best Prec@1: 29.570, Many Prec@1: 0.377, Med Prec@1: 0.258, Few Prec@1: 0.195
+Epoch: [26][0/50] 	Time 10.559 (10.559)	CE_Loss 2.2319 (2.2319)	SCL_Loss 3.5825 (3.5825)	Prec@1 0.000 (0.000)	loss 6.6134
+Epoch: [27][0/50] 	Time 7.726 (7.726)	CE_Loss 2.0644 (2.0644)	SCL_Loss 3.5641 (3.5641)	Prec@1 0.000 (0.000)	loss 6.2672
+Epoch: [28][0/50] 	Time 7.608 (7.608)	CE_Loss 2.1464 (2.1464)	SCL_Loss 3.5830 (3.5830)	Prec@1 0.000 (0.000)	loss 6.4426
+Best Prec@1: 29.590, Many Prec@1: 0.368, Med Prec@1: 0.252, Few Prec@1: 0.231
+Epoch: [29][0/50] 	Time 7.226 (7.226)	CE_Loss 2.3244 (2.3244)	SCL_Loss 3.7240 (3.7240)	Prec@1 0.000 (0.000)	loss 6.8831
+Epoch: [30][0/50] 	Time 7.812 (7.812)	CE_Loss 2.1583 (2.1583)	SCL_Loss 3.5490 (3.5490)	Prec@1 0.000 (0.000)	loss 6.4460
+Best Prec@1: 32.090, Many Prec@1: 0.417, Med Prec@1: 0.284, Few Prec@1: 0.187
+Epoch: [31][0/50] 	Time 6.939 (6.939)	CE_Loss 2.8645 (2.8645)	SCL_Loss 3.3420 (3.3420)	Prec@1 0.000 (0.000)	loss 7.7342
+Epoch: [32][0/50] 	Time 8.848 (8.848)	CE_Loss 1.9077 (1.9077)	SCL_Loss 3.4495 (3.4495)	Prec@1 0.000 (0.000)	loss 5.8851
+Epoch: [33][0/50] 	Time 7.188 (7.188)	CE_Loss 3.3973 (3.3973)	SCL_Loss 3.4900 (3.4900)	Prec@1 0.000 (0.000)	loss 8.8887
+Epoch: [34][0/50] 	Time 5.766 (5.766)	CE_Loss 2.0219 (2.0219)	SCL_Loss 3.4697 (3.4697)	Prec@1 0.000 (0.000)	loss 6.1256
+Best Prec@1: 33.340, Many Prec@1: 0.464, Med Prec@1: 0.262, Few Prec@1: 0.197
+Epoch: [35][0/50] 	Time 7.239 (7.239)	CE_Loss 3.6048 (3.6048)	SCL_Loss 3.4047 (3.4047)	Prec@1 0.000 (0.000)	loss 9.2524
+Epoch: [36][0/50] 	Time 6.751 (6.751)	CE_Loss 3.6767 (3.6767)	SCL_Loss 3.4394 (3.4394)	Prec@1 0.000 (0.000)	loss 9.4171
+Best Prec@1: 37.190, Many Prec@1: 0.482, Med Prec@1: 0.324, Few Prec@1: 0.230
+Epoch: [37][0/50] 	Time 8.527 (8.527)	CE_Loss 3.1964 (3.1964)	SCL_Loss 3.3978 (3.3978)	Prec@1 0.000 (0.000)	loss 8.4314
+Epoch: [38][0/50] 	Time 9.258 (9.258)	CE_Loss 3.7335 (3.7335)	SCL_Loss 3.5873 (3.5873)	Prec@1 0.000 (0.000)	loss 9.6194
+Epoch: [39][0/50] 	Time 9.385 (9.385)	CE_Loss 1.8654 (1.8654)	SCL_Loss 3.3671 (3.3671)	Prec@1 0.000 (0.000)	loss 5.7511
+Epoch: [40][0/50] 	Time 9.284 (9.284)	CE_Loss 3.3017 (3.3017)	SCL_Loss 3.3288 (3.3288)	Prec@1 0.000 (0.000)	loss 8.6007
+Epoch: [41][0/50] 	Time 10.031 (10.031)	CE_Loss 3.6380 (3.6380)	SCL_Loss 3.3712 (3.3712)	Prec@1 0.000 (0.000)	loss 9.2987
+Epoch: [42][0/50] 	Time 7.058 (7.058)	CE_Loss 1.9102 (1.9102)	SCL_Loss 3.4376 (3.4376)	Prec@1 0.000 (0.000)	loss 5.8829
+Epoch: [43][0/50] 	Time 6.244 (6.244)	CE_Loss 1.8883 (1.8883)	SCL_Loss 3.3986 (3.3986)	Prec@1 0.000 (0.000)	loss 5.8157
+Epoch: [44][0/50] 	Time 8.445 (8.445)	CE_Loss 1.8343 (1.8343)	SCL_Loss 3.3140 (3.3140)	Prec@1 0.000 (0.000)	loss 5.6570
+Epoch: [45][0/50] 	Time 8.448 (8.448)	CE_Loss 3.9313 (3.9313)	SCL_Loss 3.4266 (3.4266)	Prec@1 0.000 (0.000)	loss 9.9185
+Epoch: [46][0/50] 	Time 8.815 (8.815)	CE_Loss 3.5471 (3.5471)	SCL_Loss 3.2990 (3.2990)	Prec@1 0.000 (0.000)	loss 9.0737
+Epoch: [47][0/50] 	Time 7.066 (7.066)	CE_Loss 1.6668 (1.6668)	SCL_Loss 3.1983 (3.1983)	Prec@1 0.000 (0.000)	loss 5.2526
+Epoch: [48][0/50] 	Time 5.451 (5.451)	CE_Loss 1.7082 (1.7082)	SCL_Loss 3.2514 (3.2514)	Prec@1 0.000 (0.000)	loss 5.3673
+Epoch: [49][0/50] 	Time 7.318 (7.318)	CE_Loss 1.7214 (1.7214)	SCL_Loss 3.2108 (3.2108)	Prec@1 0.000 (0.000)	loss 5.3692
+Epoch: [50][0/50] 	Time 5.949 (5.949)	CE_Loss 2.3588 (2.3588)	SCL_Loss 3.3688 (3.3688)	Prec@1 0.000 (0.000)	loss 6.7389
+Epoch: [51][0/50] 	Time 6.673 (6.673)	CE_Loss 3.8601 (3.8601)	SCL_Loss 3.2840 (3.2840)	Prec@1 0.000 (0.000)	loss 9.6906
+Epoch: [52][0/50] 	Time 7.636 (7.636)	CE_Loss 3.6114 (3.6114)	SCL_Loss 3.3875 (3.3875)	Prec@1 0.000 (0.000)	loss 9.2552
+Epoch: [53][0/50] 	Time 6.157 (6.157)	CE_Loss 3.4287 (3.4287)	SCL_Loss 3.4441 (3.4441)	Prec@1 0.000 (0.000)	loss 8.9238
+Epoch: [54][0/50] 	Time 6.764 (6.764)	CE_Loss 3.7067 (3.7067)	SCL_Loss 3.2736 (3.2736)	Prec@1 0.000 (0.000)	loss 9.3776
+Epoch: [55][0/50] 	Time 5.593 (5.593)	CE_Loss 1.6478 (1.6478)	SCL_Loss 3.2600 (3.2600)	Prec@1 0.000 (0.000)	loss 5.2516
+Epoch: [56][0/50] 	Time 7.970 (7.970)	CE_Loss 3.5047 (3.5047)	SCL_Loss 3.1578 (3.1578)	Prec@1 0.000 (0.000)	loss 8.9040
+Epoch: [57][0/50] 	Time 6.299 (6.299)	CE_Loss 1.8339 (1.8339)	SCL_Loss 3.3333 (3.3333)	Prec@1 0.000 (0.000)	loss 5.6678
+Epoch: [58][0/50] 	Time 7.170 (7.170)	CE_Loss 1.7159 (1.7159)	SCL_Loss 3.1246 (3.1246)	Prec@1 0.000 (0.000)	loss 5.3066
+Epoch: [59][0/50] 	Time 8.602 (8.602)	CE_Loss 2.3200 (2.3200)	SCL_Loss 3.1436 (3.1436)	Prec@1 0.000 (0.000)	loss 6.5262
+Epoch: [60][0/50] 	Time 6.730 (6.730)	CE_Loss 1.6141 (1.6141)	SCL_Loss 3.2280 (3.2280)	Prec@1 0.000 (0.000)	loss 5.1650
+Epoch: [61][0/50] 	Time 6.135 (6.135)	CE_Loss 3.4869 (3.4869)	SCL_Loss 3.3428 (3.3428)	Prec@1 0.000 (0.000)	loss 8.9794
+Best Prec@1: 38.300, Many Prec@1: 0.481, Med Prec@1: 0.323, Few Prec@1: 0.295
+Epoch: [62][0/50] 	Time 6.774 (6.774)	CE_Loss 1.6677 (1.6677)	SCL_Loss 3.0640 (3.0640)	Prec@1 0.000 (0.000)	loss 5.1737
+Epoch: [63][0/50] 	Time 6.376 (6.376)	CE_Loss 1.6685 (1.6685)	SCL_Loss 3.1863 (3.1863)	Prec@1 0.000 (0.000)	loss 5.2487
+Epoch: [64][0/50] 	Time 6.217 (6.217)	CE_Loss 1.6479 (1.6479)	SCL_Loss 3.2482 (3.2482)	Prec@1 0.000 (0.000)	loss 5.2448
+Epoch: [65][0/50] 	Time 7.798 (7.798)	CE_Loss 3.8721 (3.8721)	SCL_Loss 3.3296 (3.3296)	Prec@1 0.000 (0.000)	loss 9.7419
+Epoch: [66][0/50] 	Time 5.567 (5.567)	CE_Loss 3.7247 (3.7247)	SCL_Loss 3.2935 (3.2935)	Prec@1 0.000 (0.000)	loss 9.4255
+Epoch: [67][0/50] 	Time 8.441 (8.441)	CE_Loss 1.9504 (1.9504)	SCL_Loss 3.3607 (3.3607)	Prec@1 0.000 (0.000)	loss 5.9172
+Epoch: [68][0/50] 	Time 7.887 (7.887)	CE_Loss 1.5316 (1.5316)	SCL_Loss 3.1394 (3.1394)	Prec@1 0.000 (0.000)	loss 4.9468
+Epoch: [69][0/50] 	Time 9.630 (9.630)	CE_Loss 1.3662 (1.3662)	SCL_Loss 3.0576 (3.0576)	Prec@1 0.000 (0.000)	loss 4.5669
+Epoch: [70][0/50] 	Time 9.702 (9.702)	CE_Loss 1.6047 (1.6047)	SCL_Loss 3.1858 (3.1858)	Prec@1 0.000 (0.000)	loss 5.1210
+Epoch: [71][0/50] 	Time 9.128 (9.128)	CE_Loss 3.8663 (3.8663)	SCL_Loss 3.2608 (3.2608)	Prec@1 0.000 (0.000)	loss 9.6892
+Best Prec@1: 38.830, Many Prec@1: 0.500, Med Prec@1: 0.341, Few Prec@1: 0.241
+Epoch: [72][0/50] 	Time 8.403 (8.403)	CE_Loss 3.6382 (3.6382)	SCL_Loss 3.1588 (3.1588)	Prec@1 0.000 (0.000)	loss 9.1717
+Epoch: [73][0/50] 	Time 8.091 (8.091)	CE_Loss 1.8263 (1.8263)	SCL_Loss 3.3690 (3.3690)	Prec@1 0.000 (0.000)	loss 5.6740
+Epoch: [74][0/50] 	Time 7.545 (7.545)	CE_Loss 2.2856 (2.2856)	SCL_Loss 3.2652 (3.2652)	Prec@1 0.000 (0.000)	loss 6.5304
+Epoch: [75][0/50] 	Time 6.817 (6.817)	CE_Loss 1.3495 (1.3495)	SCL_Loss 3.0901 (3.0901)	Prec@1 0.000 (0.000)	loss 4.5531
+Epoch: [76][0/50] 	Time 7.179 (7.179)	CE_Loss 1.7739 (1.7739)	SCL_Loss 3.2564 (3.2564)	Prec@1 0.000 (0.000)	loss 5.5015
+Epoch: [77][0/50] 	Time 6.586 (6.586)	CE_Loss 3.4896 (3.4896)	SCL_Loss 3.0930 (3.0930)	Prec@1 0.000 (0.000)	loss 8.8350
+Epoch: [78][0/50] 	Time 5.768 (5.768)	CE_Loss 1.6382 (1.6382)	SCL_Loss 3.2379 (3.2379)	Prec@1 0.000 (0.000)	loss 5.2191
+Epoch: [79][0/50] 	Time 7.466 (7.466)	CE_Loss 3.9662 (3.9662)	SCL_Loss 2.9587 (2.9587)	Prec@1 0.000 (0.000)	loss 9.7077
+Epoch: [80][0/50] 	Time 6.820 (6.820)	CE_Loss 3.8112 (3.8112)	SCL_Loss 3.2727 (3.2727)	Prec@1 0.000 (0.000)	loss 9.5859
+Epoch: [81][0/50] 	Time 5.505 (5.505)	CE_Loss 1.6307 (1.6307)	SCL_Loss 3.1632 (3.1632)	Prec@1 0.000 (0.000)	loss 5.1593
+Epoch: [82][0/50] 	Time 8.077 (8.077)	CE_Loss 1.4305 (1.4305)	SCL_Loss 2.9836 (2.9836)	Prec@1 0.000 (0.000)	loss 4.6511
+Best Prec@1: 39.470, Many Prec@1: 0.490, Med Prec@1: 0.361, Few Prec@1: 0.254
+Epoch: [83][0/50] 	Time 8.279 (8.279)	CE_Loss 1.5173 (1.5173)	SCL_Loss 2.9877 (2.9877)	Prec@1 0.000 (0.000)	loss 4.8272
+Epoch: [84][0/50] 	Time 10.200 (10.200)	CE_Loss 1.6050 (1.6050)	SCL_Loss 3.1351 (3.1351)	Prec@1 0.000 (0.000)	loss 5.0910
+Epoch: [85][0/50] 	Time 10.452 (10.452)	CE_Loss 1.5838 (1.5838)	SCL_Loss 3.1460 (3.1460)	Prec@1 0.000 (0.000)	loss 5.0551
+Best Prec@1: 39.760, Many Prec@1: 0.505, Med Prec@1: 0.335, Few Prec@1: 0.296
+Epoch: [86][0/50] 	Time 10.953 (10.953)	CE_Loss 1.6213 (1.6213)	SCL_Loss 3.1871 (3.1871)	Prec@1 0.000 (0.000)	loss 5.1548
+Epoch: [87][0/50] 	Time 9.623 (9.623)	CE_Loss 3.8009 (3.8009)	SCL_Loss 3.0722 (3.0722)	Prec@1 0.000 (0.000)	loss 9.4450
+Epoch: [88][0/50] 	Time 6.802 (6.802)	CE_Loss 1.4611 (1.4611)	SCL_Loss 3.0235 (3.0235)	Prec@1 0.000 (0.000)	loss 4.7362
+Epoch: [89][0/50] 	Time 5.391 (5.391)	CE_Loss 1.4803 (1.4803)	SCL_Loss 3.1756 (3.1756)	Prec@1 0.000 (0.000)	loss 4.8660
+Best Prec@1: 40.380, Many Prec@1: 0.517, Med Prec@1: 0.356, Few Prec@1: 0.254
+Epoch: [90][0/50] 	Time 7.630 (7.630)	CE_Loss 3.6921 (3.6921)	SCL_Loss 3.0282 (3.0282)	Prec@1 0.000 (0.000)	loss 9.2012
+Epoch: [91][0/50] 	Time 6.098 (6.098)	CE_Loss 1.6015 (1.6015)	SCL_Loss 3.2463 (3.2463)	Prec@1 0.000 (0.000)	loss 5.1508
+Best Prec@1: 41.000, Many Prec@1: 0.487, Med Prec@1: 0.359, Few Prec@1: 0.351
+Epoch: [92][0/50] 	Time 7.025 (7.025)	CE_Loss 2.0066 (2.0066)	SCL_Loss 2.9274 (2.9274)	Prec@1 0.000 (0.000)	loss 5.7696
+Epoch: [93][0/50] 	Time 6.413 (6.413)	CE_Loss 3.3747 (3.3747)	SCL_Loss 3.0973 (3.0973)	Prec@1 0.000 (0.000)	loss 8.6078
+Epoch: [94][0/50] 	Time 7.706 (7.706)	CE_Loss 1.8500 (1.8500)	SCL_Loss 2.9534 (2.9534)	Prec@1 0.000 (0.000)	loss 5.4721
+Epoch: [95][0/50] 	Time 6.815 (6.815)	CE_Loss 1.5542 (1.5542)	SCL_Loss 3.1409 (3.1409)	Prec@1 0.000 (0.000)	loss 4.9929
+Epoch: [96][0/50] 	Time 6.868 (6.868)	CE_Loss 3.3045 (3.3045)	SCL_Loss 3.0229 (3.0229)	Prec@1 0.000 (0.000)	loss 8.4227
+Epoch: [97][0/50] 	Time 6.860 (6.860)	CE_Loss 1.4453 (1.4453)	SCL_Loss 3.0749 (3.0749)	Prec@1 0.000 (0.000)	loss 4.7357
+Epoch: [98][0/50] 	Time 6.117 (6.117)	CE_Loss 1.3214 (1.3214)	SCL_Loss 3.0429 (3.0429)	Prec@1 0.000 (0.000)	loss 4.4685
+Epoch: [99][0/50] 	Time 9.932 (9.932)	CE_Loss 3.7603 (3.7603)	SCL_Loss 3.0320 (3.0320)	Prec@1 0.000 (0.000)	loss 9.3397
+Epoch: [100][0/50] 	Time 10.127 (10.127)	CE_Loss 1.4654 (1.4654)	SCL_Loss 3.0682 (3.0682)	Prec@1 0.000 (0.000)	loss 4.7716
+Epoch: [101][0/50] 	Time 10.904 (10.904)	CE_Loss 3.8038 (3.8038)	SCL_Loss 3.0515 (3.0515)	Prec@1 0.000 (0.000)	loss 9.4386
+Epoch: [102][0/50] 	Time 10.169 (10.169)	CE_Loss 4.0308 (4.0308)	SCL_Loss 3.1386 (3.1386)	Prec@1 0.000 (0.000)	loss 9.9447
+Epoch: [103][0/50] 	Time 8.058 (8.058)	CE_Loss 3.6799 (3.6799)	SCL_Loss 3.1588 (3.1588)	Prec@1 0.000 (0.000)	loss 9.2551
+Epoch: [104][0/50] 	Time 6.611 (6.611)	CE_Loss 1.5222 (1.5222)	SCL_Loss 3.0583 (3.0583)	Prec@1 0.000 (0.000)	loss 4.8794
+Epoch: [105][0/50] 	Time 6.514 (6.514)	CE_Loss 2.0201 (2.0201)	SCL_Loss 3.2556 (3.2556)	Prec@1 0.000 (0.000)	loss 5.9935
+Epoch: [106][0/50] 	Time 7.227 (7.227)	CE_Loss 1.4641 (1.4641)	SCL_Loss 3.0954 (3.0954)	Prec@1 0.000 (0.000)	loss 4.7854
+Epoch: [107][0/50] 	Time 6.903 (6.903)	CE_Loss 2.6263 (2.6263)	SCL_Loss 3.1063 (3.1063)	Prec@1 0.000 (0.000)	loss 7.1163
+Epoch: [108][0/50] 	Time 5.880 (5.880)	CE_Loss 1.4979 (1.4979)	SCL_Loss 3.0969 (3.0969)	Prec@1 0.000 (0.000)	loss 4.8540
+Epoch: [109][0/50] 	Time 7.212 (7.212)	CE_Loss 1.4490 (1.4490)	SCL_Loss 3.0406 (3.0406)	Prec@1 0.000 (0.000)	loss 4.7224
+Epoch: [110][0/50] 	Time 7.141 (7.141)	CE_Loss 1.4274 (1.4274)	SCL_Loss 3.0778 (3.0778)	Prec@1 0.000 (0.000)	loss 4.7016
+Epoch: [111][0/50] 	Time 7.924 (7.924)	CE_Loss 1.5027 (1.5027)	SCL_Loss 3.1639 (3.1639)	Prec@1 0.000 (0.000)	loss 4.9038
+Epoch: [112][0/50] 	Time 7.145 (7.145)	CE_Loss 1.6576 (1.6576)	SCL_Loss 3.0707 (3.0707)	Prec@1 0.000 (0.000)	loss 5.1576
+Epoch: [113][0/50] 	Time 8.573 (8.573)	CE_Loss 1.2989 (1.2989)	SCL_Loss 3.0248 (3.0248)	Prec@1 0.000 (0.000)	loss 4.4127
+Epoch: [114][0/50] 	Time 6.912 (6.912)	CE_Loss 3.2801 (3.2801)	SCL_Loss 3.1427 (3.1427)	Prec@1 0.000 (0.000)	loss 8.4457
+Epoch: [115][0/50] 	Time 8.284 (8.284)	CE_Loss 3.6172 (3.6172)	SCL_Loss 3.1927 (3.1927)	Prec@1 0.000 (0.000)	loss 9.1501
+Epoch: [116][0/50] 	Time 8.841 (8.841)	CE_Loss 1.4017 (1.4017)	SCL_Loss 3.0476 (3.0476)	Prec@1 0.000 (0.000)	loss 4.6320
+Epoch: [117][0/50] 	Time 7.644 (7.644)	CE_Loss 3.4222 (3.4222)	SCL_Loss 2.9753 (2.9753)	Prec@1 0.000 (0.000)	loss 8.6295
+Best Prec@1: 42.210, Many Prec@1: 0.540, Med Prec@1: 0.350, Few Prec@1: 0.318
+Epoch: [118][0/50] 	Time 6.768 (6.768)	CE_Loss 1.3539 (1.3539)	SCL_Loss 2.9817 (2.9817)	Prec@1 0.000 (0.000)	loss 4.4967
+Epoch: [119][0/50] 	Time 6.011 (6.011)	CE_Loss 1.3183 (1.3183)	SCL_Loss 3.1771 (3.1771)	Prec@1 0.000 (0.000)	loss 4.5428
+Epoch: [120][0/50] 	Time 4.881 (4.881)	CE_Loss 1.4433 (1.4433)	SCL_Loss 2.8625 (2.8625)	Prec@1 0.000 (0.000)	loss 4.6041
+Epoch: [121][0/50] 	Time 6.619 (6.619)	CE_Loss 3.4747 (3.4747)	SCL_Loss 3.1128 (3.1128)	Prec@1 0.000 (0.000)	loss 8.8170
+Epoch: [122][0/50] 	Time 8.275 (8.275)	CE_Loss 1.4934 (1.4934)	SCL_Loss 3.1656 (3.1656)	Prec@1 0.000 (0.000)	loss 4.8863
+Epoch: [123][0/50] 	Time 6.391 (6.391)	CE_Loss 3.5964 (3.5964)	SCL_Loss 3.0163 (3.0163)	Prec@1 0.000 (0.000)	loss 9.0026
+Epoch: [124][0/50] 	Time 6.147 (6.147)	CE_Loss 3.7363 (3.7363)	SCL_Loss 3.0020 (3.0020)	Prec@1 0.000 (0.000)	loss 9.2738
+Epoch: [125][0/50] 	Time 7.514 (7.514)	CE_Loss 3.5262 (3.5262)	SCL_Loss 3.0230 (3.0230)	Prec@1 0.000 (0.000)	loss 8.8661
+Epoch: [126][0/50] 	Time 8.335 (8.335)	CE_Loss 1.4534 (1.4534)	SCL_Loss 3.0528 (3.0528)	Prec@1 0.000 (0.000)	loss 4.7384
+Epoch: [127][0/50] 	Time 10.612 (10.612)	CE_Loss 3.9722 (3.9722)	SCL_Loss 3.0212 (3.0212)	Prec@1 0.000 (0.000)	loss 9.7571
+Epoch: [128][0/50] 	Time 11.902 (11.902)	CE_Loss 3.5604 (3.5604)	SCL_Loss 3.0577 (3.0577)	Prec@1 0.000 (0.000)	loss 8.9554
+Epoch: [129][0/50] 	Time 11.736 (11.736)	CE_Loss 1.4456 (1.4456)	SCL_Loss 3.0568 (3.0568)	Prec@1 0.000 (0.000)	loss 4.7252
+Epoch: [130][0/50] 	Time 7.800 (7.800)	CE_Loss 2.5487 (2.5487)	SCL_Loss 3.1836 (3.1836)	Prec@1 0.000 (0.000)	loss 7.0076
+Epoch: [131][0/50] 	Time 6.831 (6.831)	CE_Loss 3.4825 (3.4825)	SCL_Loss 2.9657 (2.9657)	Prec@1 0.000 (0.000)	loss 8.7443
+Epoch: [132][0/50] 	Time 6.968 (6.968)	CE_Loss 1.3313 (1.3313)	SCL_Loss 2.9223 (2.9223)	Prec@1 0.000 (0.000)	loss 4.4160
+Epoch: [133][0/50] 	Time 6.432 (6.432)	CE_Loss 1.2476 (1.2476)	SCL_Loss 2.9851 (2.9851)	Prec@1 0.000 (0.000)	loss 4.2862
+Epoch: [134][0/50] 	Time 6.412 (6.412)	CE_Loss 1.5984 (1.5984)	SCL_Loss 2.9702 (2.9702)	Prec@1 0.000 (0.000)	loss 4.9789
+Epoch: [135][0/50] 	Time 8.857 (8.857)	CE_Loss 1.5141 (1.5141)	SCL_Loss 3.2362 (3.2362)	Prec@1 0.000 (0.000)	loss 4.9699
+Epoch: [136][0/50] 	Time 7.095 (7.095)	CE_Loss 1.4055 (1.4055)	SCL_Loss 3.0281 (3.0281)	Prec@1 0.000 (0.000)	loss 4.6279
+Epoch: [137][0/50] 	Time 6.745 (6.745)	CE_Loss 3.2877 (3.2877)	SCL_Loss 2.9338 (2.9338)	Prec@1 0.000 (0.000)	loss 8.3356
+Epoch: [138][0/50] 	Time 8.295 (8.295)	CE_Loss 1.4919 (1.4919)	SCL_Loss 2.9721 (2.9721)	Prec@1 0.000 (0.000)	loss 4.7671
+Epoch: [139][0/50] 	Time 7.448 (7.448)	CE_Loss 3.4250 (3.4250)	SCL_Loss 3.0623 (3.0623)	Prec@1 0.000 (0.000)	loss 8.6875
+Epoch: [140][0/50] 	Time 9.417 (9.417)	CE_Loss 1.4745 (1.4745)	SCL_Loss 3.0851 (3.0851)	Prec@1 0.000 (0.000)	loss 4.8001
+Best Prec@1: 43.000, Many Prec@1: 0.532, Med Prec@1: 0.367, Few Prec@1: 0.340
+Epoch: [141][0/50] 	Time 10.175 (10.175)	CE_Loss 1.3826 (1.3826)	SCL_Loss 3.1016 (3.1016)	Prec@1 0.000 (0.000)	loss 4.6262
+Epoch: [142][0/50] 	Time 11.614 (11.614)	CE_Loss 3.1890 (3.1890)	SCL_Loss 2.9236 (2.9236)	Prec@1 0.000 (0.000)	loss 8.1321
+Epoch: [143][0/50] 	Time 8.620 (8.620)	CE_Loss 2.7414 (2.7414)	SCL_Loss 3.0259 (3.0259)	Prec@1 0.000 (0.000)	loss 7.2984
+Epoch: [144][0/50] 	Time 7.467 (7.467)	CE_Loss 3.5292 (3.5292)	SCL_Loss 3.0616 (3.0616)	Prec@1 0.000 (0.000)	loss 8.8953
+Epoch: [145][0/50] 	Time 6.762 (6.762)	CE_Loss 2.8200 (2.8200)	SCL_Loss 2.7901 (2.7901)	Prec@1 0.000 (0.000)	loss 7.3141
+Epoch: [146][0/50] 	Time 6.334 (6.334)	CE_Loss 2.2917 (2.2917)	SCL_Loss 3.1028 (3.1028)	Prec@1 0.000 (0.000)	loss 6.4452
+Epoch: [147][0/50] 	Time 6.434 (6.434)	CE_Loss 1.3728 (1.3728)	SCL_Loss 3.0841 (3.0841)	Prec@1 0.000 (0.000)	loss 4.5960
+Epoch: [148][0/50] 	Time 8.156 (8.156)	CE_Loss 1.4080 (1.4080)	SCL_Loss 3.0967 (3.0967)	Prec@1 0.000 (0.000)	loss 4.6740
+Epoch: [149][0/50] 	Time 7.222 (7.222)	CE_Loss 3.3193 (3.3193)	SCL_Loss 3.0282 (3.0282)	Prec@1 0.000 (0.000)	loss 8.4555
+Epoch: [150][0/50] 	Time 7.273 (7.273)	CE_Loss 3.5006 (3.5006)	SCL_Loss 3.2534 (3.2534)	Prec@1 0.000 (0.000)	loss 8.9532
+Epoch: [151][0/50] 	Time 5.409 (5.409)	CE_Loss 2.8310 (2.8310)	SCL_Loss 2.7562 (2.7562)	Prec@1 0.000 (0.000)	loss 7.3158
+Epoch: [152][0/50] 	Time 6.845 (6.845)	CE_Loss 1.3058 (1.3058)	SCL_Loss 2.9548 (2.9548)	Prec@1 0.000 (0.000)	loss 4.3845
+Epoch: [153][0/50] 	Time 6.962 (6.962)	CE_Loss 2.0949 (2.0949)	SCL_Loss 3.1584 (3.1584)	Prec@1 0.000 (0.000)	loss 6.0848
+Epoch: [154][0/50] 	Time 7.193 (7.193)	CE_Loss 1.6333 (1.6333)	SCL_Loss 3.0700 (3.0700)	Prec@1 0.000 (0.000)	loss 5.1086
+Epoch: [155][0/50] 	Time 9.123 (9.123)	CE_Loss 1.4542 (1.4542)	SCL_Loss 3.1560 (3.1560)	Prec@1 0.000 (0.000)	loss 4.8020
+Epoch: [156][0/50] 	Time 10.591 (10.591)	CE_Loss 2.0669 (2.0669)	SCL_Loss 2.9473 (2.9473)	Prec@1 0.000 (0.000)	loss 5.9023
+Epoch: [157][0/50] 	Time 9.933 (9.933)	CE_Loss 1.3698 (1.3698)	SCL_Loss 3.0246 (3.0246)	Prec@1 0.000 (0.000)	loss 4.5544
+Epoch: [158][0/50] 	Time 9.702 (9.702)	CE_Loss 3.5256 (3.5256)	SCL_Loss 2.9341 (2.9341)	Prec@1 0.000 (0.000)	loss 8.8117
+Epoch: [159][0/50] 	Time 10.604 (10.604)	CE_Loss 1.3334 (1.3334)	SCL_Loss 3.1250 (3.1250)	Prec@1 0.000 (0.000)	loss 4.5418
+Epoch: [160][0/50] 	Time 7.782 (7.782)	CE_Loss 1.5138 (1.5138)	SCL_Loss 3.0503 (3.0503)	Prec@1 0.000 (0.000)	loss 4.8579
+Best Prec@1: 52.890, Many Prec@1: 0.635, Med Prec@1: 0.482, Few Prec@1: 0.396
+Epoch: [161][0/50] 	Time 6.133 (6.133)	CE_Loss 3.4647 (3.4647)	SCL_Loss 2.5603 (2.5603)	Prec@1 0.000 (0.000)	loss 8.4657
+Best Prec@1: 54.200, Many Prec@1: 0.659, Med Prec@1: 0.484, Few Prec@1: 0.407
+Epoch: [162][0/50] 	Time 6.137 (6.137)	CE_Loss 1.0777 (1.0777)	SCL_Loss 2.7036 (2.7036)	Prec@1 0.000 (0.000)	loss 3.7775
+Best Prec@1: 54.290, Many Prec@1: 0.661, Med Prec@1: 0.478, Few Prec@1: 0.420
+Epoch: [163][0/50] 	Time 6.389 (6.389)	CE_Loss 0.9812 (0.9812)	SCL_Loss 2.6250 (2.6250)	Prec@1 0.000 (0.000)	loss 3.5373
+Best Prec@1: 54.610, Many Prec@1: 0.656, Med Prec@1: 0.490, Few Prec@1: 0.426
+Epoch: [164][0/50] 	Time 6.050 (6.050)	CE_Loss 3.4632 (3.4632)	SCL_Loss 2.5695 (2.5695)	Prec@1 0.000 (0.000)	loss 8.4681
+Best Prec@1: 54.860, Many Prec@1: 0.664, Med Prec@1: 0.486, Few Prec@1: 0.428
+Epoch: [165][0/50] 	Time 7.506 (7.506)	CE_Loss 2.6897 (2.6897)	SCL_Loss 2.5640 (2.5640)	Prec@1 0.000 (0.000)	loss 6.9179
+Best Prec@1: 55.270, Many Prec@1: 0.677, Med Prec@1: 0.488, Few Prec@1: 0.418
+Epoch: [166][0/50] 	Time 5.475 (5.475)	CE_Loss 1.0875 (1.0875)	SCL_Loss 2.5400 (2.5400)	Prec@1 0.000 (0.000)	loss 3.6991
+Epoch: [167][0/50] 	Time 5.605 (5.605)	CE_Loss 1.0371 (1.0371)	SCL_Loss 2.4297 (2.4297)	Prec@1 0.000 (0.000)	loss 3.5320
+Epoch: [168][0/50] 	Time 6.667 (6.667)	CE_Loss 2.6868 (2.6868)	SCL_Loss 2.4968 (2.4968)	Prec@1 0.000 (0.000)	loss 6.8716
+Best Prec@1: 55.330, Many Prec@1: 0.657, Med Prec@1: 0.491, Few Prec@1: 0.459
+Epoch: [169][0/50] 	Time 7.760 (7.760)	CE_Loss 2.5991 (2.5991)	SCL_Loss 2.4639 (2.4639)	Prec@1 0.000 (0.000)	loss 6.6766
+Best Prec@1: 55.900, Many Prec@1: 0.672, Med Prec@1: 0.499, Few Prec@1: 0.439
+Epoch: [170][0/50] 	Time 9.679 (9.679)	CE_Loss 2.8081 (2.8081)	SCL_Loss 2.5164 (2.5164)	Prec@1 0.000 (0.000)	loss 7.1261
+Epoch: [171][0/50] 	Time 7.861 (7.861)	CE_Loss 0.9990 (0.9990)	SCL_Loss 2.6473 (2.6473)	Prec@1 0.000 (0.000)	loss 3.5863
+Epoch: [172][0/50] 	Time 7.143 (7.143)	CE_Loss 0.8581 (0.8581)	SCL_Loss 2.4288 (2.4288)	Prec@1 0.000 (0.000)	loss 3.1735
+Epoch: [173][0/50] 	Time 8.076 (8.076)	CE_Loss 0.8888 (0.8888)	SCL_Loss 2.4566 (2.4566)	Prec@1 0.000 (0.000)	loss 3.2515
+Epoch: [174][0/50] 	Time 7.190 (7.190)	CE_Loss 0.8289 (0.8289)	SCL_Loss 2.4089 (2.4089)	Prec@1 0.000 (0.000)	loss 3.1032
+Epoch: [175][0/50] 	Time 8.051 (8.051)	CE_Loss 0.8066 (0.8066)	SCL_Loss 2.4864 (2.4864)	Prec@1 0.000 (0.000)	loss 3.1050
+Best Prec@1: 56.020, Many Prec@1: 0.664, Med Prec@1: 0.502, Few Prec@1: 0.457
+Epoch: [176][0/50] 	Time 7.131 (7.131)	CE_Loss 2.8984 (2.8984)	SCL_Loss 2.4807 (2.4807)	Prec@1 0.000 (0.000)	loss 7.2853
+Epoch: [177][0/50] 	Time 8.648 (8.648)	CE_Loss 0.9583 (0.9583)	SCL_Loss 2.4889 (2.4889)	Prec@1 0.000 (0.000)	loss 3.4099
+Best Prec@1: 56.030, Many Prec@1: 0.667, Med Prec@1: 0.509, Few Prec@1: 0.435
+Epoch: [178][0/50] 	Time 7.780 (7.780)	CE_Loss 2.8878 (2.8878)	SCL_Loss 2.4761 (2.4761)	Prec@1 0.000 (0.000)	loss 7.2612
+Best Prec@1: 56.490, Many Prec@1: 0.663, Med Prec@1: 0.513, Few Prec@1: 0.459
+Epoch: [179][0/50] 	Time 5.556 (5.556)	CE_Loss 0.8199 (0.8199)	SCL_Loss 2.4918 (2.4918)	Prec@1 0.000 (0.000)	loss 3.1348
+Epoch: [180][0/50] 	Time 6.139 (6.139)	CE_Loss 2.1393 (2.1393)	SCL_Loss 2.3883 (2.3883)	Prec@1 0.000 (0.000)	loss 5.7116
+Epoch: [181][0/50] 	Time 8.475 (8.475)	CE_Loss 2.7262 (2.7262)	SCL_Loss 2.4887 (2.4887)	Prec@1 0.000 (0.000)	loss 6.9456
+Best Prec@1: 56.640, Many Prec@1: 0.681, Med Prec@1: 0.508, Few Prec@1: 0.438
+Epoch: [182][0/50] 	Time 9.260 (9.260)	CE_Loss 0.9076 (0.9076)	SCL_Loss 2.3666 (2.3666)	Prec@1 0.000 (0.000)	loss 3.2352
+Epoch: [183][0/50] 	Time 8.386 (8.386)	CE_Loss 3.1640 (3.1640)	SCL_Loss 2.4451 (2.4451)	Prec@1 0.000 (0.000)	loss 7.7951
+Best Prec@1: 56.910, Many Prec@1: 0.677, Med Prec@1: 0.513, Few Prec@1: 0.450
+Epoch: [184][0/50] 	Time 8.117 (8.117)	CE_Loss 2.6110 (2.6110)	SCL_Loss 2.4367 (2.4367)	Prec@1 0.000 (0.000)	loss 6.6841
+Best Prec@1: 57.010, Many Prec@1: 0.679, Med Prec@1: 0.514, Few Prec@1: 0.450
+Epoch: [185][0/50] 	Time 8.284 (8.284)	CE_Loss 0.9036 (0.9036)	SCL_Loss 2.4979 (2.4979)	Prec@1 0.000 (0.000)	loss 3.3060
+Epoch: [186][0/50] 	Time 7.102 (7.102)	CE_Loss 0.9447 (0.9447)	SCL_Loss 2.4700 (2.4700)	Prec@1 0.000 (0.000)	loss 3.3714
+Epoch: [187][0/50] 	Time 6.813 (6.813)	CE_Loss 2.7465 (2.7465)	SCL_Loss 2.4505 (2.4505)	Prec@1 0.000 (0.000)	loss 6.9633
+Epoch: [188][0/50] 	Time 7.373 (7.373)	CE_Loss 2.0181 (2.0181)	SCL_Loss 2.4007 (2.4007)	Prec@1 0.000 (0.000)	loss 5.4766
+Epoch: [189][0/50] 	Time 8.967 (8.967)	CE_Loss 2.9696 (2.9696)	SCL_Loss 2.4272 (2.4272)	Prec@1 0.000 (0.000)	loss 7.3956
+Epoch: [190][0/50] 	Time 7.894 (7.894)	CE_Loss 2.9728 (2.9728)	SCL_Loss 2.3789 (2.3789)	Prec@1 0.000 (0.000)	loss 7.3729
+Epoch: [191][0/50] 	Time 6.114 (6.114)	CE_Loss 0.8553 (0.8553)	SCL_Loss 2.3174 (2.3174)	Prec@1 0.000 (0.000)	loss 3.1010
+Epoch: [192][0/50] 	Time 6.056 (6.056)	CE_Loss 2.9541 (2.9541)	SCL_Loss 2.4428 (2.4428)	Prec@1 0.000 (0.000)	loss 7.3740
+Epoch: [193][0/50] 	Time 4.709 (4.709)	CE_Loss 0.7521 (0.7521)	SCL_Loss 2.4225 (2.4225)	Prec@1 0.000 (0.000)	loss 2.9577
+Best Prec@1: 57.100, Many Prec@1: 0.680, Med Prec@1: 0.514, Few Prec@1: 0.452
+Epoch: [194][0/50] 	Time 5.762 (5.762)	CE_Loss 0.7896 (0.7896)	SCL_Loss 2.3349 (2.3349)	Prec@1 0.000 (0.000)	loss 2.9801
+Best Prec@1: 57.120, Many Prec@1: 0.680, Med Prec@1: 0.515, Few Prec@1: 0.450
+Epoch: [195][0/50] 	Time 5.596 (5.596)	CE_Loss 2.9155 (2.9155)	SCL_Loss 2.4706 (2.4706)	Prec@1 0.000 (0.000)	loss 7.3134
+Best Prec@1: 57.380, Many Prec@1: 0.687, Med Prec@1: 0.517, Few Prec@1: 0.447
+Epoch: [196][0/50] 	Time 6.332 (6.332)	CE_Loss 2.6353 (2.6353)	SCL_Loss 2.2563 (2.2563)	Prec@1 0.000 (0.000)	loss 6.6244
+Best Prec@1: 57.400, Many Prec@1: 0.683, Med Prec@1: 0.518, Few Prec@1: 0.453
+Epoch: [197][0/50] 	Time 6.607 (6.607)	CE_Loss 0.7089 (0.7089)	SCL_Loss 2.3685 (2.3685)	Prec@1 0.000 (0.000)	loss 2.8388
+Epoch: [198][0/50] 	Time 4.685 (4.685)	CE_Loss 0.8604 (0.8604)	SCL_Loss 2.3782 (2.3782)	Prec@1 0.000 (0.000)	loss 3.1478
+Epoch: [199][0/50] 	Time 4.682 (4.682)	CE_Loss 3.3890 (3.3890)	SCL_Loss 2.2284 (2.2284)	Prec@1 0.000 (0.000)	loss 8.1151
+
