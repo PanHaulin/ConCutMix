@@ -1,5 +1,6 @@
-# Contrastive CutMix Augmentation for Long-Tailed Recognition
-The key code of our work "Contrastive CutMix Augmentation for Long-Tailed Recognition".
+# Enhanced Long-Tailed Recognition With Contrastive CutMix Augmentation
+
+The key code of our work "Enhanced Long-Tailed Recognition With Contrastive CutMix Augmentation".
 
 ![framework](img/frame.jpg)
 ## Results
@@ -64,3 +65,13 @@ Furthermore, we run our bash file on CIFAR-100-LT and CIFAR-10-LT at 100 imbalan
 | [2](./log/run2.log) | CIFAR-10-LT|   85.94%   |
 
 These results are nearly the same as our reported top-1 accuracy on CIFAR-100-LT of **53.16%** and CIFAR-10-LT of **86.07%**.
+
+```
+@article{pan2024enhanced,
+  title={Enhanced Long-Tailed Recognition with Contrastive CutMix Augmentation},
+  author={Pan, Haolin and Guo, Yong and Yu, Mianjie and Chen, Jian},
+  journal={IEEE Transactions on Image Processing},
+  year={2024},
+  publisher={IEEE}
+}
+```
